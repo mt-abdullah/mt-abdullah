@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast who loves buildin
 
 ## 🚀 About Me
 - 🎯 **System Administrator** at Mars Tech International (Pvt) Ltd.
-- 🧠 Learning **Cyber Security**, **Artificial Intelligence**, and **JavaScript**.
-- 🎓 BIT (External) Undergraduate | NVQ Level 4 in Computer Hardware
+- 🧠 Learning **Cyber Security** and **Artificial Intelligence**
+- 🎓 BIT (External) Undergraduate | NVQ Level 4 **Computer Hardware Technician** (Completed)
 - 🌐 Website Developer | 🛠️ Flutter & Dart Developer
 - 💻 VS Code, Git, and Linux lover
 - 🧩 Open to collaboration on Web, Mobile, and AI projects
@@ -13,7 +13,9 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast who loves buildin
 ## 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -24,9 +26,8 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast who loves buildin
 ![mt-abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mt-abdullah&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
-- 🌐 [TalkFussion.com](https://talkfussion.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 📨 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mt-abdullah)
+- 📨 Email: iammtabdullah@gmail.com
 
 ---
 
