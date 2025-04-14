@@ -1,34 +1,63 @@
-# 👋 Hi there, I'm Abdullah!
+# 👋 Hey there! I'm Abdullah
 
-Welcome to my GitHub profile! I'm a passionate tech enthusiast who loves building things with code and solving real-world problems with digital solutions.
-
-## 🚀 About Me
-- 🎯 **System Administrator** at Mars Tech International (Pvt) Ltd.
-- 🧠 Learning **Cyber Security** and **Artificial Intelligence**
-- 🎓 BIT (External) Undergraduate | NVQ Level 4 **Computer Hardware Technician** (Completed)
-- 🌐 Website Developer | 🛠️ Flutter & Dart Developer
-- 💻 VS Code, Git, and Linux lover
-- 🧩 Open to collaboration on Web, Mobile, and AI projects
-
-## 🛠️ Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white&style=flat)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-
-## 📊 GitHub Stats
-![mt-abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mt-abdullah&show_icons=true&theme=radical)
-
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/mt-abdullah)
-- 📨 Email: iammtabdullah@gmail.com
+Welcome to my GitHub! I'm a tech enthusiast, developer, and system administrator who thrives on solving real-world problems through code and smart technologies.
 
 ---
 
-> “Stay curious, stay passionate, and always keep building.” 🚀
+## 🧑‍💻 About Me
+I'm currently working as a **System Administrator at Mars Tech International (Pvt) Ltd**, where I manage systems, troubleshoot network and hardware issues, and contribute to web and mobile projects. Alongside my job, I’m expanding my skillset in areas like **Cyber Security** and **Artificial Intelligence** to stay ahead in the fast-evolving tech world.
+
+### 🎓 Education & Certifications
+- 📘 **Bachelor of Information Technology (External) – Reading**
+- 🖥️ **NVQ Level 4 – Computer Hardware Technician** *(Completed)*
+- 🛡️ Studying: **Cyber Security & AI** at Mars Tech
+- 🧰 Completed: **Python for Beginners**
+
+---
+
+## 🛠️ Tech Stack & Tools I Use
+Here's a quick list of languages, frameworks, and tools I'm confident working with:
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+### 🌐 Web & Mobile Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mt-abdullah&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mt-abdullah&layout=compact&theme=radical)
+
+---
+
+## 🚀 My Goals for 2025
+- ✅ Master **Flutter** and **Full Stack Web Development**
+- 🔐 Deep dive into **Ethical Hacking & Cybersecurity**
+- 🧠 Learn Machine Learning fundamentals
+- 🧰 Contribute to Open Source projects on GitHub
+- 📝 Build a portfolio of useful, real-world applications
+
+---
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/mt-abdullah)
+- 📧 Email: iammtabdullah@gmail.com
+
+---
+
+> _“Stay curious, stay passionate, and always keep building.”_ 🚀
+
