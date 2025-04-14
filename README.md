@@ -9,8 +9,8 @@ I'm currently working as a **System Administrator at Mars Tech International (Pv
 
 ### 🎓 Education & Certifications
 - 📘 **Bachelor of Information Technology (External) – Reading**
-- 🖥️ **NVQ Level 4 – Computer Hardware Technician** *(Completed)*
-- 🛡️ Studying: **Cyber Security & AI** at Mars Tech
+- 🖥️ **NVQ Level 4 – Computer Hardware Technician** **(Completed)**
+- 🛡️ Studying: **Cyber Security & Artificial Intelligence ** at Mars Tech
 - 🧰 Completed: **Python for Beginners**
 
 ---
