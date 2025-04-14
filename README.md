@@ -10,7 +10,7 @@ I'm currently working as a **System Administrator at Mars Tech International (Pv
 ### 🎓 Education & Certifications
 - 📘 **Bachelor of Information Technology (External) – Reading**
 - 🖥️ **NVQ Level 4 – Computer Hardware Technician** **(Completed)**
-- 🛡️ Studying: **Cyber Security & Artificial Intelligence ** at Mars Tech
+- 🛡️ Studying: **Cyber Security & Artificial Intelligence** at Mars Tech
 - 🧰 Completed: **Python for Beginners**
 
 ---
@@ -45,11 +45,11 @@ Here's a quick list of languages, frameworks, and tools I'm confident working wi
 ---
 
 ## 🚀 My Goals for 2025
-- ✅ Master **Flutter** and **Full Stack Web Development**
-- 🔐 Deep dive into **Ethical Hacking & Cybersecurity**
+- 🛡️ **Master Cybersecurity** through hands-on learning and certifications  
 - 🧠 Learn Machine Learning fundamentals
 - 🧰 Contribute to Open Source projects on GitHub
 - 📝 Build a portfolio of useful, real-world applications
+
 
 ---
 
