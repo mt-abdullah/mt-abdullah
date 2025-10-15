@@ -55,7 +55,7 @@ Here's a quick list of languages, frameworks, and tools I'm confident working wi
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/mt-abdullah)
-- 📧 Email: iammtabdullah@gmail.com
+- 📧 [Email:] (iammtabdullah@gmail.com)
 
 ---
 
