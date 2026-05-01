@@ -7,11 +7,11 @@ Welcome to my GitHub! I'm a tech enthusiast, developer, and system administrator
 ## 🧑‍💻 About Me
 I'm currently working as a **System Administrator at Mars Tech International (Pvt) Ltd**, where I manage systems, troubleshoot network and hardware issues, and contribute to web and mobile projects. Alongside my job, I’m expanding my skillset in areas like **Cyber Security** and **Artificial Intelligence** to stay ahead in the fast-evolving tech world.
 
-### 🎓 Education & Certifications
-- 📘 **Bachelor of Information Technology (External) – Reading**
-- 🖥️ **NVQ Level 4 – Computer Hardware Technician** **(Completed)**
-- 🛡️ Studying: **Cyber Security & Artificial Intelligence** at Mars Tech
-- 🧰 Completed: **Python for Beginners**
+## 🎓 Education & Certifications
+- 🎓 Bachelor of Information Technology (BIT) – External Degree (Reading)  
+- 🖥️ NVQ Level 4 – Computer Hardware Technician (Completed)  
+- 🧠 Cyber Security & Artificial Intelligence Internship Training  
+- 🐍 Python for Beginners (Completed)  
 
 ---
 
