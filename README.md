@@ -41,11 +41,6 @@ Here's a quick list of languages, frameworks, and tools I'm confident working wi
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mt-abdullah&theme=dark&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mt-abdullah&theme=github-dark&hide_border=true)
-
-[![GitHub followers](https://img.shields.io/github/followers/mt-abdullah?label=Followers&style=social)](https://github.com/mt-abdullah)
-[![GitHub stars](https://img.shields.io/github/stars/mt-abdullah?label=Stars&style=social)](https://github.com/mt-abdullah)
 ---
 
 ## 🚀 My Goals for 2025
