@@ -39,8 +39,7 @@ Here's a quick list of languages, frameworks, and tools I'm confident working wi
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mt-abdullah&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mt-abdullah&layout=compact&theme=radical&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mt-abdullah&theme=dark&hide_border=true)
 ---
 
 ## 🚀 My Goals for 2025
