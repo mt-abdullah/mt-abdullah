@@ -1,14 +1,5 @@
 <div align="center">
 
-```
- █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ██╗      █████╗ ██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██║     ██╔══██╗██║  ██║
-███████║██████╔╝██║  ██║██║   ██║██║     ██║     ███████║███████║
-██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██║     ██╔══██║██╔══██║
-██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗███████╗██║  ██║██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
 ### `mt-abdullah` · System Administrator · Developer · Tech Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+systems+that+actually+work.;Learning+Cybersecurity+%26+AI.;Turning+coffee+into+code+since+day+one." alt="Typing SVG" />
@@ -69,7 +60,7 @@ motto       : "Stay curious, stay passionate, and always keep building." 🚀
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mt-abdullah&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mt-abdullah&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mt-abdullah&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
