@@ -60,7 +60,7 @@ motto       : "Stay curious, stay passionate, and always keep building." 🚀
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mt-abdullah&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![Top Langs](https://github-readme-stats-eight-tau-39.vercel.app/api/top-langs/?username=mt-abdullah&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mt-abdullah&theme=github_dark)
 
 </div>
 
