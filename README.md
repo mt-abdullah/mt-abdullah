@@ -2,7 +2,7 @@
 
 ### `mt-abdullah` · System Administrator · Developer · Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+systems+that+actually+work.;Learning+Cybersecurity+%26+AI.;Turning+coffee+into+code+since+day+one." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+systems+that+never+sleep.;Cybersecurity+is+not+a+product%2C+it%27s+a+mindset.;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+to+the+global+tech+scene.;Code.+Break.+Fix.+Repeat." alt="Typing SVG" />
 
 </div>
 
