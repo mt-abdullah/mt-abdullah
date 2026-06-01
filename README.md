@@ -66,7 +66,7 @@ motto       : "Stay curious, stay passionate, and always keep building." 🚀
 
 ---
 
-## 🚀 Goals — 2025
+## 🚀 Goals — 2026
 
 ```
 [▓▓▓▓▓▓░░░░]  🛡️  Master Cybersecurity — Hands-on labs & certifications
