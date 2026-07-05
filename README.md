@@ -1,6 +1,6 @@
 <div align="center">
 
-### `mt-abdullah` · Full Stack Developer · System Administrator · Tech Enthusiast
+### `mt-abdulla-it` · Full Stack Developer · System Administrator · Tech Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications.;Full+Stack+Development+%7C+Frontend+%2B+Backend.;Cybersecurity+and+AI+enthusiast.;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+to+global+tech+innovation." alt="Typing SVG" />
 
@@ -77,8 +77,11 @@ motto       : "Build. Secure. Scale. Repeat." 🚀
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mt--abdullah-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mt-abdullah)
-[![GitHub](https://img.shields.io/badge/GitHub-mt--abdullah-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mt-abdullah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mt--abdulla--it-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mt-abdulla-it)
+
+[![GitHub](https://img.shields.io/badge/GitHub-mt--abdulla--it-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mt-abdulla-it)
+
+[![Email](https://img.shields.io/badge/Email-mt.abdulla.it%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mt.abdulla.it@gmail.com)
 
 </div>
 
