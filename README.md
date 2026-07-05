@@ -11,7 +11,7 @@
 ## `whoami`
 
 ```yaml
-name        : Abdulla Thaslim (mt-abdullah)
+name        : Abdulla Thaslim (mt-abdulla-it)
 role        : Full Stack Developer @ Mars Tech International (Pvt) Ltd
 location    : Sri Lanka 🇱🇰
 focus       : [ Full Stack Development, Cybersecurity, AI ]
