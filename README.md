@@ -1,87 +1,132 @@
 <div align="center">
 
-### `mt-abdulla-it` · Full Stack Developer · System Administrator · Tech Enthusiast
+# 👋 Hi, I'm Abdulla Thaslim
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications.;Full+Stack+Development+%7C+Frontend+%2B+Backend.;Cybersecurity+and+AI+enthusiast.;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+to+global+tech+innovation." alt="Typing SVG" />
+### `mt-abdulla-it`
+
+**Full Stack Developer | Cybersecurity & AI Enthusiast**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Exploring+Cybersecurity+and+AI;Always+Learning+Always+Building" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## `whoami`
+## 👨‍💻 About Me
 
-```yaml
-name        : Abdulla Thaslim (mt-abdulla-it)
-role        : Full Stack Developer @ Mars Tech International (Pvt) Ltd
-location    : Sri Lanka 🇱🇰
-focus       : [ Full Stack Development, Cybersecurity, AI ]
-status      : BIT (External Degree) Student · Continuous Learner
-motto       : "Build. Secure. Scale. Repeat." 🚀
-````
+I'm a **Full Stack Developer** from 🇱🇰 Sri Lanka, passionate about building **modern, scalable, and secure software solutions**.
+
+* 💼 Full Stack Developer @ **Mars Tech International (Pvt) Ltd**
+* 💻 Full Stack Web Development
+* 🔐 Cybersecurity
+* 🤖 Artificial Intelligence
+* 🗄️ Database Design & Development
+* 🎓 BIT External Degree Student
+
+> 🚀 **Build. Secure. Scale. Repeat.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,fastapi" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,huggingface" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman,figma" />
+</p>
 
 ---
 
-### 🌐 Web Development
+## 🚀 Featured Projects
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
----
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+| Project                       | Description                              |
+| :---------------------------- | :--------------------------------------- |
+| 🧠 **Perception Mapper AI**   | AI-powered intelligent analysis platform |
+| 🎫 **Smart Queue Management** | Digital queue management solution        |
+| ♻️ **Smart Waste Management** | Smart waste management platform          |
+| 🌱 **AgriRoute**              | Smart agriculture planning platform      |
 
 ---
 
 ## 🎓 Education & Certifications
 
-| Credential                                             | Status      |
+| Qualification                                          | Status      |
 | ------------------------------------------------------ | ----------- |
 | 🎓 Bachelor of Information Technology (BIT) – External | 📖 Reading  |
 | 🖥️ NVQ Level 4 – Computer Hardware Technician         | ✅ Completed |
-| 🛡️ Cybersecurity & AI Internship Training             | 🔄 Ongoing  |
+| 🛡️ Cybersecurity & AI Training                        | 🔄 Ongoing  |
 | 🐍 Python for Beginners                                | ✅ Completed |
 
 ---
 
-## 🚀 Focus Areas
+## 🎯 Current Focus
 
-* Full Stack Web Application Development
-* REST API Development & Integration
-* Database Design & Optimization
-* Secure Coding Practices
-* UI/UX Responsive Design
+```text
+Full Stack Development
+Backend & REST API Development
+Database Engineering
+Cybersecurity
+Artificial Intelligence
+DevOps & Deployment
+```
 
 ---
 
-## 📫 Connect With Me
+## 🔥 Contribution Streak
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mt--abdulla--it-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mt-abdulla-it)
+<img src="https://streak-stats.demolab.com?user=mt-abdulla-it&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mt--abdulla--it-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mt-abdulla-it)
+</div>
 
-[![Email](https://img.shields.io/badge/Email-mt.abdulla.it%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mt.abdulla.it@gmail.com)
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mt-abdulla-it">
+  <img src="https://img.shields.io/badge/GitHub-Abdulla%20Thaslim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mt-abdulla-it">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdulla%20Thaslim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mt.abdulla.it@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -89,9 +134,6 @@ motto       : "Build. Secure. Scale. Repeat." 🚀
 
 <div align="center">
 
-<sub>🚀 Full Stack Developer | Building secure and scalable web solutions</sub>
+### 🚀 Always Learning • Always Building
 
 </div>
-
-
-
